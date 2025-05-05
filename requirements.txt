@@ -3,3 +3,6 @@ opencv-python
 imutils
 tensorflowflask
 opencv-python
+soundfile
+pandas
+tensorflow
