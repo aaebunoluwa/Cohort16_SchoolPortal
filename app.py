@@ -8,7 +8,7 @@ def home():
 
 @app.route('/about')
 def about():
-    return "This is not the About Page."
+    return "Hello, This is not the About Page."
 
 if __name__ == '__main__':
     app.run(debug=True)
